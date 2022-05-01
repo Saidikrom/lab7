@@ -1,16 +1,9 @@
-# lab7
+Desert Clicker
 
 A new Flutter project.
 
-## Getting Started
+You can download apk version in [HERE](https://drive.google.com/file/d/1qkK2aAPmVjHAQCdvP8c4Y_cy_jnP_mb0/view?usp=sharing)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/70878222/166158640-02485874-5af1-4acb-860f-e918e5bd44cb.mp4
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
